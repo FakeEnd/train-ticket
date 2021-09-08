@@ -1,0 +1,19 @@
+.order-buy-content {
+  margin: 30px 300px;
+}
+
+.order-buy-btn {
+  background: #FFFBE6;
+  width: 120px;
+  height: 60px;
+  font-size: 18px;
+  font-weight: bold;
+  margin-left: 350px;
+}
+
+.order-menu {
+  /* background: #E2F1FF; */
+  margin: 0px 450px 20px;
+  font-size: 17px;
+}
+
